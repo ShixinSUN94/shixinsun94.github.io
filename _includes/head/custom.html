@@ -21,3 +21,18 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+<style>
+/* Force body content to be justified */
+.page__content p,
+.page__content li,
+.page__content dd {
+  text-align: justify !important;
+  text-justify: inter-ideograph;
+}
+/* In case list containers inherit a conflicting alignment */
+.page__content ul,
+.page__content ol {
+  text-align: justify !important;
+}
+</style>
