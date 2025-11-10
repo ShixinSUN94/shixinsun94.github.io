@@ -12,5 +12,11 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Honors"
-    url: "/#-honors"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Academic Activities"
+    url: "/#-academic-activities"
+
+  - title: "Extracurricular Activities"
+    url: "/#-extracurricular-activities"
