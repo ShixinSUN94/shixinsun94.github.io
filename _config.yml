@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shixin SUN (孙仕鑫)"
+title                    : "Shixin Sun (孙仕鑫)"
 description              : "Focusing on Autonomous Driving."
 repository               : "shixinsun94/shixinsun94.github.io"
 google_scholar_stats_use_cdn : true
