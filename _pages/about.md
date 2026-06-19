@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-{% include_relative includes/1.intro.md %}
+{% include_relative includes/1.profile.md %}
 
 {% include_relative includes/2.exp.md %}
 
