@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Profile"
-    url: "/#Profile"
+    url: "/#profile"
 
   - title: "Experiences"
     url: "/#-experiences"
